@@ -28,20 +28,34 @@
     <option name="TOOL_WINDOW_CUSTOM_FILTER" value="System" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" name="Default" comment="" />
+    <list default="true" id="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Steampunk\Documents\Android\FilePeon\res\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Steampunk\Documents\Android\FilePeon\res\drawable-ldpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Steampunk\Documents\Android\FilePeon\res\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Steampunk\Documents\Android\FilePeon\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/qweex/FilePeon/FileObject.java" afterPath="$PROJECT_DIR$/src/com/qweex/FilePeon/FileObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="FilePeon.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356703962893" ignored="false" />
     <file path="/fragment.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356715801592" ignored="false" />
     <file path="/MainActivity.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356718992952" ignored="false" />
-    <file path="/Dummy.txt" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356704946034" ignored="false" />
+    <file path="/Dummy.txt" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356731629970" ignored="false" />
     <file path="/file.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356713400069" ignored="false" />
     <file path="/FileAdapter.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356714892705" ignored="false" />
-    <file path="/FileObject.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356715208749" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/qweex/FilePeon/R.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356717905350" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/qweex/FilePeon/Manifest.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356717905350" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/qweex/FilePeon/BuildConfig.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356717923092" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356717870682" ignored="false" />
+    <file path="/FileObject.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356731445077" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/qweex/FilePeon/R.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356731464476" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/qweex/FilePeon/Manifest.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356731464476" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/qweex/FilePeon/BuildConfig.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356731618445" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356721594209" ignored="false" />
+    <file path="$PROJECT_DIR$/../The Git Go/.idea/compiler.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356722002021" ignored="false" />
+    <file path="$PROJECT_DIR$/../The Git Go/res/layout/main.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356722002021" ignored="false" />
+    <file path="$PROJECT_DIR$/../The Git Go/res/values/strings.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356722002021" ignored="false" />
+    <file path="$PROJECT_DIR$/../The Git Go/build.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356722002021" ignored="false" />
+    <file path="$PROJECT_DIR$/../The Git Go/AndroidManifest.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356722002021" ignored="false" />
+    <file path="$PROJECT_DIR$/../The Git Go/src/com/qweex/thegitgo/MyActivity.java" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356722002021" ignored="false" />
+    <file path="$PROJECT_DIR$/../The Git Go/.idea/workspace.xml" changelist="2ffb7c32-52d1-4dd5-9cb6-bf4ccfd09593" time="1356722080029" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,33 +114,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/qweex/FilePeon/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="9" selection-start="2169" selection-end="2169" vertical-scroll-proportion="0.6803419">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/file.xml">
-          <provider editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.0">
+            <state line="49" column="0" selection-start="1539" selection-end="1539" vertical-scroll-proportion="0.0">
               <folding />
             </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="FileObject.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/qweex/FilePeon/FileObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="13" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
+            <state line="39" column="13" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="19" selection-start="756" selection-end="756" vertical-scroll-proportion="0.4264214">
               <folding />
             </state>
           </provider>
@@ -135,7 +144,7 @@
       <file leaf-file-name="FileAdapter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/qweex/FilePeon/FileAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0">
+            <state line="19" column="26" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,14 +157,22 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/res/layout/file.xml" />
         <option value="$PROJECT_DIR$/src/com/qweex/FilePeon/FileAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/qweex/FilePeon/MainActivity.java" />
         <option value="$PROJECT_DIR$/src/com/qweex/FilePeon/FileObject.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/qweex/FilePeon/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -163,7 +180,7 @@
     <option name="width" value="926" />
     <option name="height" value="1080" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -219,43 +236,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FilePeon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FilePeon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FilePeon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FilePeon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FilePeon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -458,7 +439,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="926" height="1080" extended-state="1" />
+    <frame x="0" y="0" width="926" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32912844" sideWeight="0.670247" order="-1" side_tool="false" content_ui="tabs" />
@@ -473,13 +454,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32975295" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.670247" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.670247" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -547,16 +528,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/qweex/FilePeon/FileObject.java">
+    <entry file="file://$PROJECT_DIR$/src/com/qweex/FilePeon/FileAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="13" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="76" selection-start="441" selection-end="441" vertical-scroll-proportion="0.22742476">
+        <state line="19" column="26" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -571,19 +545,24 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qweex/FilePeon/FileAdapter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/qweex/FilePeon/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0">
+        <state line="49" column="0" selection-start="1539" selection-end="1539" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qweex/FilePeon/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/qweex/FilePeon/FileObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="9" selection-start="2169" selection-end="2169" vertical-scroll-proportion="0.6803419">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="39" column="13" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="19" selection-start="756" selection-end="756" vertical-scroll-proportion="0.4264214">
+          <folding />
         </state>
       </provider>
     </entry>

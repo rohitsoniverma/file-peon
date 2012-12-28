@@ -24,19 +24,23 @@ public class FileObject implements Comparable<FileObject>{
         Process ls = null;
         DataInputStream osRes;
         try {
-/*                System.out.println("ls -l -d \"" + path + "\"");*/
+            try {
                 ls = Runtime.getRuntime().exec("ls -l -d \"" + path + "\"");
+                ls.waitFor();
+            }finally{
                 osRes = new DataInputStream(ls.getInputStream());
                 permissions = osRes.readLine();
-                /*System.out.println(path + " : " + permissions);*/
+                System.out.println(path + " : " + permissions);
                 if(permissions==null)
                     throw new Exception();
                 permissions = permissions.substring(1, 10);
                 ls.getOutputStream().close();
                 ls.getInputStream().close();
                 ls.getErrorStream().close();
+            }
         }
         catch (Exception e) {
+            System.out.println("DERP failed");
             permissions = "---------";
         }
     }
